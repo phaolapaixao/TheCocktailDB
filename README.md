@@ -48,9 +48,9 @@ lib/
 - Buscar drinks por nome: `https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita`
 
 ## Screenshots
+<img width="500" height="1068" alt="image" src="https://github.com/user-attachments/assets/42e8f00c-4d80-455a-975c-b519d8c3acf7" />
+<img width="493" height="992" alt="image" src="https://github.com/user-attachments/assets/8541ae8e-aed8-4236-89dd-423b49cd7049" />
+<img width="477" height="1026" alt="image" src="https://github.com/user-attachments/assets/5ccdc584-b32b-4ce8-8cef-0c9002a1e0b7" />
+<img width="479" height="1017" alt="image" src="https://github.com/user-attachments/assets/ff75a73e-37a5-4ab1-9828-e28258841a80" />
 
-Adicione aqui screenshots do app rodando!
 
-## Licença
-
-MIT
