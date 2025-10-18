@@ -47,7 +47,7 @@ lib/
 - Buscar drinks por letra: `https://www.thecocktaildb.com/api/json/v1/1/search.php?f=a`
 - Buscar drinks por nome: `https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita`
 
-## 📱 Screenshots
+## 📱 Capturas de tela
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/42e8f00c-4d80-455a-975c-b519d8c3acf7" width="220" alt="Tela inicial" />
