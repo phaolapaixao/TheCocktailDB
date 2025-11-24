@@ -56,6 +56,10 @@ lib/
   <img src="https://github.com/user-attachments/assets/ff75a73e-37a5-4ab1-9828-e28258841a80" width="220" alt="Modo escuro" />
 </p>
 
+# Post no Linkedin
+
+https://www.linkedin.com/posts/phaola-paix%C3%A3o-568286321_github-phaolapaixaothecocktaildb-activity-7398093284189057024-f2p0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFFgW6ABsYM_fR3bt4iA22TlDL1Hlaqt6Uc
+
 # Vídeo
 
 https://youtu.be/Me8iBN9oslA
